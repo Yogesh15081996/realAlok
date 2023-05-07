@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/zaiba/static/css/main.25f30b12.css",
+    "main.js": "/zaiba/static/js/main.8712cc20.js",
+    "static/js/787.728a399a.chunk.js": "/zaiba/static/js/787.728a399a.chunk.js",
+    "static/media/portfolio5.png": "/zaiba/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/zaiba.jpeg": "/zaiba/static/media/zaiba.4b63a9a98cb5462b4a4b.jpeg",
+    "static/media/portfolio2.jpg": "/zaiba/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/zoya.jpeg": "/zaiba/static/media/zoya.282d690d97048e42f6a9.jpeg",
+    "static/media/portfolio6.jpg": "/zaiba/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/zaiba/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/zaiba/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/zaiba/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/p2.jpg": "/zaiba/static/media/p2.2998d2c0c9f16348e786.jpg",
+    "static/media/Dhanush.jpg": "/zaiba/static/media/Dhanush.9203cb83848081a566c7.jpg",
+    "index.html": "/zaiba/index.html",
+    "main.25f30b12.css.map": "/zaiba/static/css/main.25f30b12.css.map",
+    "main.8712cc20.js.map": "/zaiba/static/js/main.8712cc20.js.map",
+    "787.728a399a.chunk.js.map": "/zaiba/static/js/787.728a399a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25f30b12.css",
+    "static/js/main.8712cc20.js"
+  ]
+}

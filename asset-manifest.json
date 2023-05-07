@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/realAlok/static/css/main.25f30b12.css",
+    "main.js": "/realAlok/static/js/main.f52ca6fc.js",
+    "static/js/787.728a399a.chunk.js": "/realAlok/static/js/787.728a399a.chunk.js",
+    "static/media/ak3.jpeg": "/realAlok/static/media/ak3.9a79f58b40d0b147599f.jpeg",
+    "static/media/ak.jpeg": "/realAlok/static/media/ak.9b0726e49d4742051fc1.jpeg",
+    "static/media/portfolio5.png": "/realAlok/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/realAlok/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/realAlok/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/realAlok/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/realAlok/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/realAlok/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/realAlok/index.html",
+    "main.25f30b12.css.map": "/realAlok/static/css/main.25f30b12.css.map",
+    "main.f52ca6fc.js.map": "/realAlok/static/js/main.f52ca6fc.js.map",
+    "787.728a399a.chunk.js.map": "/realAlok/static/js/787.728a399a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25f30b12.css",
+    "static/js/main.f52ca6fc.js"
+  ]
+}
